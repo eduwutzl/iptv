@@ -161,8 +161,6 @@ https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
 https://bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@Plus",Bloomberg TV + (2160p)
 https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us@Europe",Bloomberg TV Europe
-https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@US",Bloomberg TV US (720p)
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@LiveEvent",Bloomberg TV US Live Event (720p)
@@ -887,8 +885,6 @@ https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 https://thefirst-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheHillTV.us@SD",The Hill TV (1080p)
 https://jmp2.uk/stvp-US3300008FX
-#EXTINF:-1 tvg-id="TheLatinZoneTV.us@HD",The Latin Zone TV (720p) [Not 24/7]
-https://cdn.mycloudstream.io/hls/live/broadcast/ka5ofgte/720p.m3u8
 #EXTINF:-1 tvg-id="WYPLTV18.us@SD",The Library Channel TV18 (360p)
 https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-id="TheNest.us@SD",The Nest
@@ -1226,3 +1222,5 @@ https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/p
 https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhuebPX8UYW2fAiSlZGjGoPc/m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel
 https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwht95XgI8UhySeZgp7szKj3V/m3u8
+#EXTINF:-1 tvg-id="KUVNDT1.us@SD",KUVN-DT1
+https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
